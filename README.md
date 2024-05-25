@@ -15,7 +15,7 @@ https://raspberrypi.stackexchange.com/questions/117718/how-to-connect-an-android
 
 ###  Basic Usage
 
-python wifi_direct_connector.py
+    python wifi_direct_connector.py
 
 Runs the script waiting for serial commands to control device actions.
 
